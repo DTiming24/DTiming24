@@ -1,16 +1,22 @@
-## Hi there 👋
+# Daniil Timoshkin
 
-<!--
-**DTiming24/DTiming24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Student • builder • Python • AI • digital security • engineering
 
-Here are some ideas to get you started:
+Hi, I’m Daniil — creator of Neuron.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About me
+
+- Based in North Cyprus
+- I like practical projects, automation, and clean engineering
+- I work with Python, AI tools, and security-minded systems
+
+## Focus
+
+- Python and scripting
+- AI tooling and agent workflows
+- Digital security
+- Engineering projects
+
+## Status
+
+Currently shaping useful tools, learning fast, and building things that actually work.
