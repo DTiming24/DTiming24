@@ -1,22 +1,24 @@
 # Daniil Timoshkin
 
-Student • builder • Python • AI • digital security • engineering
+Python • AI • digital security • engineering
 
 Hi, I’m Daniil — creator of Neuron.
 
-## About me
+I build practical tools, automate boring work, and like keeping things clean, useful, and reliable.
 
-- Based in North Cyprus
-- I like practical projects, automation, and clean engineering
-- I work with Python, AI tools, and security-minded systems
-
-## Focus
+## What I care about
 
 - Python and scripting
-- AI tooling and agent workflows
+- AI tools and agent workflows
 - Digital security
-- Engineering projects
+- Engineering projects that solve real problems
 
-## Status
+## Current focus
 
-Currently shaping useful tools, learning fast, and building things that actually work.
+- shipping useful personal tools
+- learning faster through building
+- turning ideas into working systems
+
+## GitHub profile
+
+This repo powers my GitHub profile README.
